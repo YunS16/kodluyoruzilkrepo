@@ -1,0 +1,28 @@
+nav {
+    margin: 100px 750px;
+    font-size: 180%;
+}
+ol {
+    text-align: center;
+    list-style: none;
+    padding-left: 0;
+}
+h1 {
+    text-align: center;
+    font-size: 300%;
+    color: red;
+}
+p {
+    text-align: center;
+    font-size: 150%;
+}
+
+body {
+    background-color: azure;
+}
+li {
+    font-size: 120%;
+}
+footer{
+   margin: 150px 800px;
+}
